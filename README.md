@@ -64,7 +64,13 @@ LexIntel is an on-premises AI assistant that orchestrates a fine-tuned 7B-parame
    - Monitor performance metrics and token-usage logs.
 
 # Screenshots  
-*(Insert application UI screenshots here; e.g., report outline view, retrieval logs, draft preview, formatted output.)*
+
+<img width="1479" alt="Screenshot 2025-07-08 at 8 20 10 AM" src="https://github.com/user-attachments/assets/23c27bad-55f4-4651-82af-a532a54357ea" />
+
+![image](https://github.com/user-attachments/assets/c6f0a94c-c926-43f3-8883-ed2b400b92cf)
+
+![image](https://github.com/user-attachments/assets/4141a077-355b-43d5-a72a-a3974e3e7098)
+
 
 # Next Steps  
 - **Integration**: Hook into document-management systems (e.g., iManage, NetDocuments).  
